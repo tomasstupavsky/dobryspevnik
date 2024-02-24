@@ -30,6 +30,12 @@
 
 - F100: Aplikácia musí bežať na mobilných zariadeniach so systémom Android a iOS []
 
+- V nastaveniach aplikácie by malo byť možné nastaviť:
+    - F111: Použitie anglickej (C D E F G A Bb B) alebo nemeckej notácie (C D E F G A B H) []
+    - F112: Nastavenie, či ukazovať akordy iba keď sú prvýkrát nové a zmenené, alebo ich ukazovať pri každom verši
+
+- F120: Vo vyhľadávaní by na samom spodku mala byť možnosť poslať žiadosť o pridanie pesníčky, ktorá v spevníku chýba.
+
 ## Nefunkcionálne
 
 - N10: Aplikácia by mala zobrazovať piesne tak, aby boli dobre čitateľné z obrazovky telefónu. []
